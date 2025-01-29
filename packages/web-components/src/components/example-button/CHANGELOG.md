@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.5.0 (2025-01-29)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @carbon/web-components to v2.19.0 ([#326](https://github.com/carbon-design-system/carbon-labs/issues/326)) ([76ea077](https://github.com/carbon-design-system/carbon-labs/commit/76ea077a3b1aa313e47b399cd9cea865d9d37641))
+* **deps:** update dependency @carbon/web-components to v2.20.0 ([#351](https://github.com/carbon-design-system/carbon-labs/issues/351)) ([180645e](https://github.com/carbon-design-system/carbon-labs/commit/180645e976108e588d302dffb2b93fa8c2e688da))
+* get web-component test for example-button working ([#357](https://github.com/carbon-design-system/carbon-labs/issues/357)) ([5ae7525](https://github.com/carbon-design-system/carbon-labs/commit/5ae7525867850c2e2bc6fd80834b054759437412))
+
+
+### Features
+
+* script to generate base component in react + web-components ([#354](https://github.com/carbon-design-system/carbon-labs/issues/354)) ([3c24d37](https://github.com/carbon-design-system/carbon-labs/commit/3c24d375f2b8773f7c4dd704197ae6267d919685))
+
+
+
+
+
 # [0.4.0](https://github.com/carbon-design-system/carbon-labs/compare/@carbon-labs/extended-button@0.4.0-rc.0...@carbon-labs/extended-button@0.4.0) (2024-04-19)
 
 **Note:** Version bump only for package @carbon-labs/extended-button
